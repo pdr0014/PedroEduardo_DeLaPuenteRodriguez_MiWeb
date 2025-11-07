@@ -19,6 +19,8 @@ main{
     padding: 30px;
     display: flex;
     z-index: auto;
+    font-family: "Metal Mania", serif;
+    font-style: normal;
 }
 nav a{
     text-decoration: none;
@@ -118,6 +120,7 @@ h2{
 }
 .titulo_tabla_castorice{
     color: rgb(216, 53, 216);
+    
 }
 .titulo_tabla_jinshi{
     color: rgb(214, 214, 95);
