@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(116, 116, 197);
+}
+nav{
+    background-color: rgb(88, 88, 199);
+}
+nav a{
+    text-decoration: none;
+}
