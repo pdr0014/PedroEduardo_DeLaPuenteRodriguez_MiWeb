@@ -2,6 +2,7 @@ body{
     background-image: url(imagenes/xrf4untzy9l61.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: auto;
     backdrop-filter: blur(3px);
     background-color: rgba(54, 54, 206, 0.671);
     color: white;
@@ -18,7 +19,7 @@ main{
     font-size: 40px;
     padding: 30px;
     display: flex;
-    z-index: auto;
+    z-index: 100;
     font-family: "Metal Mania", serif;
     font-style: normal;
 }
@@ -102,6 +103,7 @@ nav a:hover{
 }
 table{
     border-style: color black;
+    border-collapse: collapse;
 }
 th{
     border: 1px solid #dddddd;
