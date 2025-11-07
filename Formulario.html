@@ -4,8 +4,77 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
 </head>
 <body>
-    
+    <header>
+        <nav class="bar">
+            <a href="index.html">Inicio</a>
+            <a href="Personajes.html">Personajes</a>
+        </nav>
+    </header>
+    <section class="folio_formulario">
+        <form>
+        <fieldset>
+            <legend><h1><strong>Preguntas acerca de los Personajes</strong></h1></legend>
+                <label>
+                    <strong>Tu nombre: </strong><input type="text">
+                </label>
+        </fieldset>
+        <fieldset>
+                <label>
+                    <strong>Fecha: </strong><input type="date">
+                </label>
+        </fieldset>
+        <fieldset>
+                <label>
+                    <strong>Selecciona el personaje:</strong>
+                </label>
+                        <select>
+                            <label>
+                                <option 1>Castorice</option>
+                                <option 2>Jinshi</option>
+                                <option 3>Miyabi</option>
+                            </label>
+                        </select>
+            </fieldset>
+            <fieldset>
+                <label>
+                    <strong>Caracteristicas que mas te hayan gustado:</strong>
+                        <p>Apariencia: <input type="checkbox"></p>
+                        <p>Gameplay: <input type="checkbox"></p>
+                        <p>Historia: <input type="checkbox"></p>
+                </label>
+            </fieldset>
+            <fieldset>
+                <label>
+                    <strong>¿Que tanto te ha gustado el personaje?:</strong>
+                        <p>Nada<input type="radio"></p>
+                        <p>Poco<input type="radio"></p>
+                        <p>Ni fu ni fa<input type="radio"></p>
+                        <p>Muchisimo<input type="radio"></p>
+                        </label>
+            </fieldset>
+            <fieldset>
+                <label>
+                    <strong>¿Has visitado la pagina del su juego?:</strong>
+                        <p>Si<input type="radio"></p>
+                        <p>No<input type="radio"></p>
+                </label>
+            </fieldset>
+            <fieldset>
+                <label>
+                    <strong>Opinion extra del personaje:</strong>
+                        <p><textarea></textarea></p>
+                </label>
+            </fieldset>
+            <fieldset>
+                <label>
+                    <button type="submit">Enviar </button>
+                    <button type="reset">Limpiar </button>
+                </label>
+            </fieldset>
+        </form>
+    </section>
 </body>
 </html>

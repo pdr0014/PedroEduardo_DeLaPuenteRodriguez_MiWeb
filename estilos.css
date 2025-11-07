@@ -24,6 +24,9 @@ nav a{
     text-decoration: none;
     color: white;
 }
+nav a:hover{
+    color: aquamarine;
+}
 .folio{
     text-align: center;
     background-color: rgba(68, 78, 168, 0.733);
@@ -31,10 +34,12 @@ nav a{
     margin-right: 20px;
     margin-left: 150px;
     font-size: 20px;
+    box-shadow: 0 4px 10px black;
 }
 .texto_informacion{
     float: left;
-    margin-left: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .folio2{
     text-align: center;
@@ -44,7 +49,7 @@ nav a{
     margin-right: 20px;
     margin-left: 150px;
     padding: 30px;
-    box-shadow: 10px;
+    box-shadow: 0 4px 10px black;
 }
 .link_hsr{
     text-decoration: none;
@@ -58,13 +63,23 @@ nav a{
     text-decoration: none;
     color: white
 }
+.link_hsr:hover{
+    color: aquamarine;
+}
+.link_wuwa:hover{
+    color: aquamarine;
+}
+.link_zzz:hover{
+    color: aquamarine;
+}
 .folio_lateral{
     background-color: rgba(68, 78, 168, 0.733);
     border-radius: 10px;
     float: right;
     margin-right: 150px;
     width: 500px;
-    font-size: 26px;
+    font-size: 23px;
+    box-shadow: 0 4px 10px black;
 }
 .titulo_segundofolio{
     text-align: center;
@@ -90,9 +105,36 @@ th{
     border: 1px solid #dddddd;
     text-align: center;
     padding: 8px;
+    font-size: 18px;
 }
 td{
     border: 1px solid #dddddd;
     text-align: center;
     padding: 8px;
+    font-size: 16px;
+}
+h2{
+    font-size: 28px;
+}
+.titulo_tabla_castorice{
+    color: rgb(216, 53, 216);
+}
+.titulo_tabla_jinshi{
+    color: rgb(214, 214, 95);
+}
+.titulo_tabla_miyabi{
+    color: aqua;
+}
+.folio_formulario{
+    text-align: center;
+    background-color: rgba(68, 78, 168, 0.733);
+    border-radius: 10px;
+    padding: 30px;
+    margin-right: 40px;
+    margin-left: 40px;
+    font-size: 20px;
+    box-shadow: 0 4px 10px black;
+}
+fieldset{
+    margin-bottom: 10px;
 }
