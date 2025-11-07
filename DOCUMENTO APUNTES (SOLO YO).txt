@@ -1,0 +1,9 @@
+FALTA: 
+	Usar :
+		:before o ::after
+		:nth-child(even))
+		@font-face
+		list-style-type
+		<details> / <summary>
+		poner una foto dentro de un folio
+		nav position: fixed
