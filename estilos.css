@@ -58,7 +58,6 @@ nav a:hover{
     margin-left: 150px;
     padding: 30px;
     box-shadow: 0 4px 10px black;
-    
 }
 .link_hsr{
     text-decoration: none;
@@ -153,4 +152,10 @@ h2{
 }
 fieldset{
     margin-bottom: 10px;
+}
+footer{
+    background-color: rgba(51, 59, 133, 0.733);
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
 }
