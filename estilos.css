@@ -91,6 +91,9 @@ nav a:hover{
     box-shadow: 0 4px 10px black;
     padding: 0px;
 }
+li{
+    list-style-type: georgian;
+}
 .titulo_segundofolio{
     text-align: center;
 }
@@ -134,7 +137,7 @@ h2{
     
 }
 .titulo_tabla_jinshi{
-    color: rgb(214, 214, 95);
+    color: rgb(226, 216, 79);
 }
 .titulo_tabla_miyabi{
     color: aqua;
@@ -158,4 +161,28 @@ footer{
     text-align: center;
     padding: 10px;
     margin-top: 20px;
+}
+
+/* Segunda parte del css */
+
+.link_castorice{
+    text-decoration: none;
+    color: white
+}
+.link_jinshi{
+    text-decoration: none;
+    color: white
+}
+.link_miyabi{
+    text-decoration: none;
+    color: white
+}
+.link_castorice:hover{
+    color: rgb(216, 53, 216);
+}
+.link_jinshi:hover{
+    color: rgb(226, 216, 79);
+}
+.link_miyabi:hover{
+    color: aqua;
 }
