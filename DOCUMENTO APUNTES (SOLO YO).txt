@@ -3,7 +3,8 @@ FALTA:
 		:before o ::after
 		:nth-child(even))
 		@font-face
-		list-style-type
+		list-style-type (listo)
 		<details> / <summary>
-		poner una foto dentro de un folio
+		poner una foto del fondo un folio
 		nav position: fixed
+		5 selectores: (id, atrr)
