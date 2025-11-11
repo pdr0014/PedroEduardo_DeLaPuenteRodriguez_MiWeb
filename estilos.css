@@ -192,7 +192,9 @@ footer{
 }
 .castorice2{
     float: left;
-    width: 300px;
+    width: 360px;
+    margin-bottom: 30px;
+    margin-left: 20px;
 }
 .jinshi2{
     float: left;
@@ -216,7 +218,7 @@ footer{
 }
 .folio_castorice{
     text-align: center;
-    background-color: rgba(68, 78, 168, 0.733);
+    background-color: rgb(216, 53, 216);
     border-radius: 10px;
     box-sizing: border-box; 
     margin-right: 20px;
@@ -249,4 +251,22 @@ footer{
     font-size: 20px;
     box-shadow: 0 4px 10px black;
     padding: 0px;
+}
+.texto_castorice{
+    
+}
+.texto_jinshi{
+
+}
+.texto_miyabi{
+
+}
+#titulo_castorice{
+    font-size: 40px;
+}
+#titulo_jinshi{
+
+}
+#titulo_miyabi{
+
 }
