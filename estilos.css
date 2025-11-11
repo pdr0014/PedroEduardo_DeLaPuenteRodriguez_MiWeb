@@ -157,7 +157,11 @@ fieldset{
     margin-bottom: 10px;
 }
 footer{
-    background-color: rgba(51, 59, 133, 0.733);
+    background-image: url(imagenes/360_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg);
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: cover;
+    backdrop-filter: blur(3px);
     text-align: center;
     padding: 10px;
     margin-top: 20px;
