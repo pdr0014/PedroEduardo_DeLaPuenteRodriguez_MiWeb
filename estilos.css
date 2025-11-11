@@ -190,3 +190,27 @@ footer{
 .link_miyabi:hover{
     color: aqua;
 }
+.castorice2{
+    float: left;
+    width: 300px;
+}
+.jinshi2{
+    float: left;
+    width: 300px;
+}
+.miyabi2{
+    float: left;
+    width: 300px;
+}
+.video_castorice{
+    width: 500px;
+    height: 300px;
+}
+.video_jinshi{
+    width: 500px;
+    height: 300px;
+}
+.video_miyabi{
+    width: 500px;
+    height: 300px;
+}
