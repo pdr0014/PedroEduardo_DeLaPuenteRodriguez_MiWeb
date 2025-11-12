@@ -218,7 +218,7 @@ footer{
 }
 .folio_castorice{
     text-align: center;
-    background-color: rgb(216, 53, 216);
+    background-color: rgba(216, 53, 216, 0.623);
     border-radius: 10px;
     box-sizing: border-box; 
     margin-right: 20px;
@@ -230,7 +230,7 @@ footer{
 }
 .folio_jinshi{
     text-align: center;
-    background-color: rgba(68, 78, 168, 0.733);
+    background-color: rgba(226, 216, 79, 0.719);
     border-radius: 10px;
     box-sizing: border-box; 
     margin-right: 20px;
@@ -242,7 +242,7 @@ footer{
 }
 .folio_miyabi{
     text-align: center;
-    background-color: rgba(68, 78, 168, 0.733);
+    background-color: rgba(0, 255, 255, 0.664);
     border-radius: 10px;
     box-sizing: border-box; 
     margin-right: 20px;
