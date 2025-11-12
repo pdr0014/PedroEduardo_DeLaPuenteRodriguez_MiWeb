@@ -195,14 +195,19 @@ footer{
     width: 360px;
     margin-bottom: 30px;
     margin-left: 20px;
+    
 }
 .jinshi2{
     float: left;
     width: 300px;
+    margin-bottom: 30px;
+    margin-left: 20px;
 }
 .miyabi2{
     float: left;
     width: 300px;
+    margin-bottom: 30px;
+    margin-left: 20px;
 }
 .video_castorice{
     width: 500px;
@@ -215,45 +220,40 @@ footer{
 .video_miyabi{
     width: 500px;
     height: 300px;
+
 }
 .folio_castorice{
-    text-align: center;
     background-color: rgba(216, 53, 216, 0.623);
     border-radius: 10px;
     box-sizing: border-box; 
     margin-right: 20px;
     margin-left: 150px;
     margin-bottom: 20px;
-    font-size: 20px;
     box-shadow: 0 4px 10px black;
     padding: 0px;
 }
 .folio_jinshi{
-    text-align: center;
     background-color: rgba(226, 216, 79, 0.719);
     border-radius: 10px;
     box-sizing: border-box; 
     margin-right: 20px;
     margin-left: 150px;
     margin-bottom: 20px;
-    font-size: 20px;
     box-shadow: 0 4px 10px black;
     padding: 0px;
 }
 .folio_miyabi{
-    text-align: center;
     background-color: rgba(0, 255, 255, 0.664);
     border-radius: 10px;
     box-sizing: border-box; 
     margin-right: 20px;
     margin-left: 150px;
     margin-bottom: 20px;
-    font-size: 20px;
     box-shadow: 0 4px 10px black;
     padding: 0px;
 }
 .texto_castorice{
-    
+
 }
 .texto_jinshi{
 
@@ -262,7 +262,7 @@ footer{
 
 }
 #titulo_castorice{
-    font-size: 40px;
+    
 }
 #titulo_jinshi{
 
