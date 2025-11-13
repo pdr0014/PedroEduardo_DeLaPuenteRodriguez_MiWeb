@@ -157,9 +157,10 @@ fieldset{
     margin-bottom: 10px;
 }
 footer{
-    background-image: url(imagenes/360_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg);
+    background-image: url(imagenes/xrf4untzy9l61.jpg);
     background-repeat: no-repeat;
-    background-position: auto;
+    background-position: center;
+    height: 50px;
     background-size: cover;
     backdrop-filter: blur(3px);
     text-align: center;
@@ -194,32 +195,39 @@ footer{
     float: left;
     width: 360px;
     margin-bottom: 30px;
-    margin-left: 20px;
-    
+    margin-left: 10px;
 }
 .jinshi2{
     float: left;
     width: 300px;
     margin-bottom: 30px;
     margin-left: 20px;
+    align-items: center;
 }
 .miyabi2{
     float: left;
     width: 300px;
     margin-bottom: 30px;
     margin-left: 20px;
+    
 }
 .video_castorice{
     width: 500px;
     height: 300px;
+    align-items: center;
+    margin-left: 20px;
 }
 .video_jinshi{
     width: 500px;
     height: 300px;
+    align-items: center;
+    margin-left: 60px;
 }
 .video_miyabi{
     width: 500px;
     height: 300px;
+    align-items: center;
+    margin-left: 60px;
 
 }
 .folio_castorice{
@@ -253,20 +261,20 @@ footer{
     padding: 0px;
 }
 .texto_castorice{
-
-}
-.texto_jinshi{
-
-}
-.texto_miyabi{
-
-}
-#titulo_castorice{
     
 }
+.texto_jinshi{
+    
+}
+.texto_miyabi{
+    
+}
+#titulo_castorice{
+    text-align: center;
+}
 #titulo_jinshi{
-
+    text-align: center;
 }
 #titulo_miyabi{
-
+    text-align: center;
 }

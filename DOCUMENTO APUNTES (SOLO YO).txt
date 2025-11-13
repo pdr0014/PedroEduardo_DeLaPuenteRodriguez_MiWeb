@@ -5,6 +5,6 @@ FALTA:
 		@font-face
 		list-style-type (listo)
 		<details> / <summary>
-		poner una foto del fondo un folio
+		poner una foto del fondo un folio (listo)
 		nav position: fixed
 		5 selectores: (id, atrr)
