@@ -4,7 +4,7 @@ FALTA:
 		:nth-child(even))
 		@font-face
 		list-style-type (listo)
-		<details> / <summary>
+		<details> / <summary> (listo)
 		poner una foto del fondo un folio (listo)
-		nav position: fixed
-		5 selectores: (id, atrr)
+		nav position: fixed (no)
+		5 selectores: (id, atrr) (listo)

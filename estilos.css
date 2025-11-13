@@ -191,20 +191,20 @@ footer{
 .link_miyabi:hover{
     color: aqua;
 }
-.castorice2{
+[class=castorice2]{
     float: left;
     width: 360px;
     margin-bottom: 30px;
     margin-left: 10px;
 }
-.jinshi2{
+[class=jinshi2]{
     float: left;
     width: 300px;
     margin-bottom: 30px;
     margin-left: 20px;
     align-items: center;
 }
-.miyabi2{
+[class=miyabi2]{
     float: left;
     width: 300px;
     margin-bottom: 30px;
