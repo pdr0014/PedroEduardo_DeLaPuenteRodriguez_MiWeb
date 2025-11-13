@@ -160,12 +160,12 @@ footer{
     background-image: url(imagenes/xrf4untzy9l61.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    height: 50px;
+    height: 40px;
     background-size: cover;
-    backdrop-filter: blur(3px);
-    text-align: center;
+    backdrop-filter: blur(1px);
     padding: 10px;
-    margin-top: 20px;
+    margin-top: 40px;
+    text-align: center;
 }
 
 /* Segunda parte del css */
@@ -261,20 +261,26 @@ footer{
     padding: 0px;
 }
 .texto_castorice{
-    
+    text-align: center;
+    margin-right: 410px;
 }
 .texto_jinshi{
-    
+    text-align: center;
+    margin-right: 510px;
 }
 .texto_miyabi{
-    
+    text-align: center;
+    margin-right: 510px;
 }
 #titulo_castorice{
     text-align: center;
+    font-size: 40px;
 }
 #titulo_jinshi{
     text-align: center;
+    font-size: 40px;
 }
 #titulo_miyabi{
     text-align: center;
+    font-size: 40px;
 }
