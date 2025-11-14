@@ -129,6 +129,18 @@ td{
     padding: 8px;
     font-size: 16px;
 }
+tr:nth-child(odd){
+    background-color: rgba(35, 141, 136, 0.589);
+}
+tr:nth-child(even){
+    background-color: rgba(35, 141, 136, 0.589);
+}
+th:nth-child(even){
+    background-color: rgba(17, 160, 141, 0.589);
+}
+td:nth-child(even){
+    background-color: rgba(36, 168, 129, 0.589);
+}
 h2{
     font-size: 28px;
 }
@@ -261,16 +273,22 @@ footer{
     padding: 0px;
 }
 .texto_castorice{
-    text-align: center;
-    margin-right: 410px;
+    margin-right: 60px;
+    margin-left: 390px;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 .texto_jinshi{
-    text-align: center;
-    margin-right: 510px;
+    margin-right: 60px;
+    margin-left: 380px;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 .texto_miyabi{
-    text-align: center;
-    margin-right: 510px;
+    margin-right: 60px;
+    margin-left: 380px;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 #titulo_castorice{
     text-align: center;
